@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1baacba6-e028-4325-97eb-83eee170c49d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/OPD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LR1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LR2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LR3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LR4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/lr3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LR1.py" beforeDir="false" afterPath="$PROJECT_DIR$/LR1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +31,21 @@
   "associatedIndex": 0
 }]]></component>
   <component name="ProjectId" id="2xthJRx7W83JY0YlHuGqe2cBArX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in LR4.py.executor": "Run",
+    "Python.LR1.executor": "Run",
+    "Python.LR2.executor": "Run",
+    "Python.LR3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
