@@ -10,7 +10,7 @@ from aiogram.fsm.state import State, StatesGroup
 from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.types import Message, ReplyKeyboardRemove
 
-TOKEN = "7577828027:AAG35ggRmkLoYADC_4KFsNdM28itH9fcojA"
+TOKEN = "mytoken"
 
 storage = MemoryStorage()
 bot_router = Router()
