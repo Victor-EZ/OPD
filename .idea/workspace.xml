@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1baacba6-e028-4325-97eb-83eee170c49d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/LR2.py" beforeDir="false" afterPath="$PROJECT_DIR$/LR2.py" afterDir="false" />
+    <list default="true" id="1baacba6-e028-4325-97eb-83eee170c49d" name="Changes" comment="Full lr">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,19 @@
       <option name="presentableId" value="Default" />
       <updated>1748763205335</updated>
     </task>
+    <task id="LOCAL-00001" summary="Full lr">
+      <option name="closed" value="true" />
+      <created>1748776188732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748776188732</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Full lr" />
+    <option name="LAST_COMMIT_MESSAGE" value="Full lr" />
   </component>
 </project>
